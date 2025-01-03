@@ -13,7 +13,6 @@
 
 <p align="center">Welcome to my GitHub profile! 👋</p>
 
-
 <p align="center">
   🎓 <b>B.Tech in Electronics and Communication Engineering</b>  
 </p>
@@ -82,3 +81,11 @@
 ---
 
 <p align="center">Thanks for visiting my profile! 😊</p>
+
+<style>
+  @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+</style>
