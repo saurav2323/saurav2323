@@ -1,4 +1,18 @@
-<h1 align="center">Hi, I'm Saurav Kumar! 👋</h1>
+<h1 align="center">
+  <a href="https://github.com/saurav2323" style="font-size: 2.5em; 
+             background: linear-gradient(90deg, #ff6b6b, #f06595, #845ef7, #339af0, #22b8cf, #51cf66, #94d82d); 
+             background-size: 400% 400%; 
+             color: white; 
+             animation: gradient 8s ease infinite; 
+             -webkit-background-clip: text; 
+             -webkit-text-fill-color: transparent;
+             text-decoration: none;">
+    Saurav Kumar
+  </a>
+</h1>
+
+<p align="center">Welcome to my GitHub profile! 👋</p>
+
 
 <p align="center">
   🎓 <b>B.Tech in Electronics and Communication Engineering</b>  
